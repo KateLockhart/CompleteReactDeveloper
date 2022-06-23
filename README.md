@@ -24,7 +24,7 @@ Course Summary:
 
 ### Course Topic Sections:
 
-- [ ] 1. React Key Concepts
+- [x] 1. React Key Concepts
 - [ ] 2. React Basics
 - [ ] 3. Capstone Project: Intro & Setup
 - [ ] 4. Routing & React-Router
